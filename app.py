@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Set page title
-st.title("Hello World App")
+st.title("Hello Universe App")
 
-# Display hello world message
-st.write("Hello World!")
+# Display hello universe message
+st.write("Hello Universe!")
 
 # Optional: Add some styling
 st.markdown("""
